@@ -10,7 +10,9 @@ Objectives:
 3) To implement automated currency recognition system using image processing.
 
 Flow Chart:
-![image](https://user-images.githubusercontent.com/66591733/172206939-ef411292-1d9e-493d-9bdf-1d9fe7233162.png)
+![image]
+
+(https://user-images.githubusercontent.com/66591733/172206939-ef411292-1d9e-493d-9bdf-1d9fe7233162.png)
 
 Image Preprocessing:
 1) RGB to Gray Scale Conversion: 
